@@ -109,7 +109,7 @@ In the url, your entry will be equal to what you typed out on the survey.
 
 ## Redirect 
 If you want a redirect back to google forms, it will look like this whenever someone submits the form. 
-![Redirect](redirect.png "Optional Title")
+![Redirect](No-redirect.png "Optional Title")
 
 ## No Redirect
 If you want no redirect add an iframe tag.
