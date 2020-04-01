@@ -11,11 +11,35 @@ I have heard of so many ways to create a contact page with static websites and I
 4. Make the redirect hidden with JavaScript.
 
 # Create HTML Form 
-```html 
+#### Make it basic, we will go back to it later.
 
+```html 
+<form>
+
+    <p>Name</p>
+    <input placeholder="Name" type="text" required>
+
+    <br>
+
+    <p>Email</p>
+    <input placeholder="Email" type="email" required>
+
+    <br>
+    
+    <p>Message</p>
+    <textarea placeholder="Comment"></textarea><br>
+    
+    <br>
+
+    <button type="submit">Send</button>
+  
+</form>
 ```
 
 # Create a Google Form 
+
+#### Create a google form and add as many questions as you like.
+![Questions](staticContactPage/questions.png raw=true "Optional Title")
 
 Here is the prefilled link 
 
