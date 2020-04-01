@@ -41,9 +41,8 @@ I have heard of so many ways to create a contact page with static websites and I
 #### Create a google form and add as many questions as you like.
 ![Questions](questions.png "Optional Title")
 
-#### 
-
-Here is the prefilled link 
+#### Get the prefilled link
+![Pre-filled Link](pre-filled-link.png "Optional Title")
 
 ```
 https://docs.google.com/forms/d/e/1FAIpQLScOS65F0ZSyiyFeC2y4X1Y76YIg-HYgFgWhmeawIi-uFcauTQ/viewform?usp=pp_url&entry.1804520491=cskbotboi&entry.1428655783=cskbotboi@gmail.com&entry.877185975=Hello!
