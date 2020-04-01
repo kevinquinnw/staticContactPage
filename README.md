@@ -8,7 +8,7 @@ I have heard of so many ways to create a contact page with static websites and I
 1. Create your html form
 2. Create a google form
 3. Snag some code from the form 
-4. Make the redirect hidden with JavaScript.
+4. Make the redirect hidden with JavaScript and iframe
 
 # Create HTML Form 
 #### Make it basic, we will go back to it later.
