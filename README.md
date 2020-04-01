@@ -41,13 +41,13 @@ I have heard of so many ways to create a contact page with static websites and I
 ## Create a google form and add as many questions as you like.
 ![Questions](questions.png "Optional Title")
 
-## Get the prefilled link.
-![Pre-filled Link](pre-filled-link.png "Optional Title")
-
 ## Link it to a spreadsheet, to collect responses.
 ![Spreadsheet](spreadsheet.png "Optional Title")
 
 This allows you to see when people have messaged you, and all the other questions you asked for.
+
+## Get the prefilled link.
+![Pre-filled Link](pre-filled-link.png "Optional Title")
 
 ### We will extracting the entry values from the link and using it for our form. You will have to fill out the form, submit it, then copy the link.
 
